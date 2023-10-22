@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1696688569 source:c:\users\pedro\desktop\arra\header.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1696688847 source:c:\users\pedro\desktop\arra\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1696727593 source:c:\users\pedro\desktop\aed-ii\main.c
+	"header.h"
+
+1696727336 c:\users\pedro\desktop\aed-ii\header.h
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

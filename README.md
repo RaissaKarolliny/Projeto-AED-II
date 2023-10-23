@@ -1,5 +1,12 @@
 # HEAP
 Projeto de implementação AED II.
+Primeiramente é importante destacar um pouco da lógica por trás das estruturas heap e hash que ciramos.
+A nossa heap é uma struct que possui um vetor de elementos naves, esse vetor será nossa heap propriamente dita.
+Na nossa hash, temos uma lógica um pouco mais complicada, na struct hash, temos um campo que consiste em um vetor
+ele possui 20 posições(total de oermutações com 6 elementos), ele armazena elementos do tipo vaga, esse elemento,
+por sisói, tem um campo que armazena as permutações de cada combinação de 3 elementos, criando assim, uma matriz de proporção
+20x6.
+
 
 Em uma galáxia distante, um grupo de diversos sistemas solares em uma região da galáxia começou a instaurar uma
 revolução para tomar o controle das decisões de comando por meio da opressão aos opositores. Muitos planetas foram

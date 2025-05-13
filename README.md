@@ -1,10 +1,10 @@
 # HEAP
 Projeto de implementação AED II.
-Primeiramente é importante destacar um pouco da lógica por trás das estruturas heap e hash que ciramos.
+Primeiramente é importante destacar um pouco da lógica por trás das estruturas heap e hash que criamos.
 A nossa heap é uma struct que possui um vetor de elementos naves, esse vetor será nossa heap propriamente dita.
 Na nossa hash, temos uma lógica um pouco mais complicada, na struct hash, temos um campo que consiste em um vetor
-ele possui 20 posições(total de oermutações com 6 elementos), ele armazena elementos do tipo vaga, esse elemento,
-por sisói, tem um campo que armazena as permutações de cada combinação de 3 elementos, criando assim, uma matriz de proporção
+ele possui 20 posições(total de permutações com 6 elementos), ele armazena elementos do tipo vaga, esse elemento,
+por si só, tem um campo que armazena as permutações de cada combinação de 3 elementos, criando assim, uma matriz de proporção
 20x6.
 
 
